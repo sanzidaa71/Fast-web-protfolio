@@ -1,0 +1,48 @@
+h1 {
+    font-size: 50px;
+}
+
+#name {
+    font-size: 35px;
+    color: chocolate;
+}
+
+section {
+    display: flex;
+}
+
+.half-with {
+    width: 50%;
+}
+
+.half-with img {
+    width: 40%;
+    padding: 50px 50px;
+    margin: 100px 100px;
+    margin-top: auto;
+    border-color: 10px, black;
+
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 7px 30px;
+    margin: 4px 4px;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+}
+
+#hire-me {
+    color: aliceblue;
+}
+
+.Top-banner {
+    border: black 2px;
+    background-color: rgb(247, 243, 243);
+    margin: auto;
+    padding: 90px;
+
+}
