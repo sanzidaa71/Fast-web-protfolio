@@ -2,21 +2,41 @@ h1 {
     font-size: 50px;
 }
 
-#name {
-    font-size: 35px;
+.name {
+    font-size: 20px;
     color: chocolate;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-top: 100px;
+
 }
 
 .half-with {
     width: 50%;
+
 }
 
+.Experiences {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    width: 40%;
+    border-left: 8px solid #81fc3f;
+    background-color: #fff;
+    box-shadow: 10px 10px 10px 10px rgb(232, 232, 232)
+}
 
+.Full-baby {
+    font-size: 40px;
+}
 
 .half-with img {
     width: 40%;
